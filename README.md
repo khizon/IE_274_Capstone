@@ -1,2 +1,2 @@
-# IE_274_Capstone
-Feasibility Study of a TelCo's House-to-house SIM card promotion
+# Door-to-Door SIM Card Distribution Feasibility Study
+This is created as a capstone requirement for IE 273. In this project, I analyzed census data to find priority communities to target for SIM card distribution based on metrics of proximity to HQ, number of households, and household density. Additionally, I incorporated the google maps API to convert goegraphic coordinates, into driving time for a more accurate metric of proximity. Full discussion can be seen on this [blog article](https://kielhizon.tech/2023/01/door-to-door-sim-card-distribution-feasibility-study/).
